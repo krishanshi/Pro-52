@@ -1,0 +1,41 @@
+h1 {
+    color: olivedrab;   
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.b{
+    color: yellowgreen
+}
+.c{
+    color: pink
+}
+.d{
+    color:rgb(230, 250, 240)
+}
+.e{
+    color: blueviolet
+}
+.f{
+    color: yellow
+}
+.g{
+    color: black
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+a:link{
+    color : white
+  }
+  a:visited{
+    color: white
+  }
+p,h2{
+    text-align: center;
+}
